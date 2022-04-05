@@ -21,4 +21,4 @@ Bellow you can find a screenshot as well as a video link.
 
 ## Website Preview
 
-![Team Builder]()
+![Team Builder](https://github.com/luistorano/team-generator/blob/main/src/img/team-builder.png)
